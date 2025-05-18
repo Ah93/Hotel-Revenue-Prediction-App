@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+matplotlib.pyplot
+seaborn 
+scikit-kearn
