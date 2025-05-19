@@ -1,6 +1,8 @@
 streamlit
 pandas
+numpy
 joblib
 matplotlib.pyplot
 seaborn 
 scikit-kearn
+catboost
