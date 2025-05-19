@@ -16,9 +16,6 @@ The notebook includes:
 
 The dataset used in this project downloaded from Kaggle, it includes hotel booking records with various features like booking dates, length of stay, guest details, pricing, and whether the booking was canceled.
 
-## 📁 Project Structure
-
-
 ## ⚙️ Requirements
 
 Install the following packages before running the notebook:
