@@ -1,6 +1,6 @@
-# 🏨 Hotel Booking Analysis and Cancellations Prediction
+# 🏨 Hotel Booking Analysis and Revenue Prediction
 
-This project explores and analyzes hotel booking data to uncover trends and patterns associated with booking cancellations. Using visualizations and machine learning models, it aims to understand the key drivers of cancellations and predict their likelihood.
+This project explores and analyzes hotel booking data to uncover trends and patterns that influence hotel revenue. Using visualizations and machine learning models, it aims to understand the key drivers of revenue and build predictive models to estimate booking revenue.
 
 ## 📊 Overview
 
